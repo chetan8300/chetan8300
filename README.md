@@ -1,6 +1,6 @@
 ## Hi, I'm [Chetan Godhani](https://chetangodhani.com) :wave:
 
-Full stack Engineer . Gamer
+Full stack Engineer &bullet; Gamer
 
 ---
 
