@@ -4,7 +4,7 @@ Full stack Engineer &bullet; Gamer
 
 ---
 
-Things I love: Javascript, React, Typescript, GraphQL
+Things I love: Javascript, React, Typescript, GraphQL, Node.JS, Go
 
 
 ### How to reach me 
